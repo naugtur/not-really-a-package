@@ -2,6 +2,9 @@
   "name": "not-really-a-package",
   "version": "1.0.0",
   "description": "not really a package - empty package name like example.com",
+  "scripts": {
+    "postinstall": "echo nothing"
+  },
   "keywords": ["nothing","example","empty package"],
   "author": "naugtur",
   "license": "MIT"
