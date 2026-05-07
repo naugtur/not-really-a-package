@@ -5,6 +5,7 @@
   "scripts": {
     "postinstall": "echo nothing"
   },
+  "bin": "cli.js",
   "keywords": [
     "nothing",
     "example",
